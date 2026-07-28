@@ -35,7 +35,7 @@ This project walks through a full EDA workflow on a customer shopping dataset:
 
 ## Key Findings
 
-- The dataset is clean — no missing values, no duplicate rows.
+- The dataset has no missing values, no duplicate rows.
 - Clothing is the most purchased category, but average spend per transaction is nearly identical across all categories, seasons, genders, sizes, age groups, and locations.
 - Correlations between the numeric features (Age, Purchase Amount, Review Rating, Previous Purchases) are all close to zero and none of them linearly predict each other.
 - Only ~27% of customers are subscribers, and subscribers don't spend more or rate higher than non-subscribers.
