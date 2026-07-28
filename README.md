@@ -6,11 +6,11 @@ An exploratory data analysis (EDA) of a 3,900-row retail transactions dataset, e
 
 This project walks through a full EDA workflow on a customer shopping dataset:
 
-- **Data quality checks** — confirming the dataset is free of missing values and duplicates
-- **Univariate analysis** — distributions of age, gender, category, season, purchase amount, subscription status, and color preferences
-- **Bivariate analysis** — relationships between purchase amount, review rating, category, frequency, location, size, payment method, and discounts
-- **Multivariate analysis** — a correlation heatmap of numeric features, spend by category × gender, subscription behavior, purchase amount by age group, and revenue by location
-- **Key insights** — a summary of the patterns (and notable *lack* of patterns) found across the dataset
+- **Data quality checks**: confirming the dataset is free of missing values and duplicates
+- **Univariate analysis**: distributions of age, gender, category, season, purchase amount, subscription status, and color preferences
+- **Bivariate analysis**: relationships between purchase amount, review rating, category, frequency, location, size, payment method, and discounts
+- **Multivariate analysis**: a correlation heatmap of numeric features, spend by category × gender, subscription behavior, purchase amount by age group, and revenue by location
+- **Key insights**: a summary of the patterns (and notable *lack* of patterns) found across the dataset
 
 ## Dataset
 
