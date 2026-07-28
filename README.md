@@ -45,8 +45,8 @@ See the notebook for the full breakdown, charts, and discussion of each finding.
 
 ## Tools Used
 
-- **Python** — pandas, numpy, matplotlib, seaborn
-- **Environment** — Jupyter Notebook
+- **Python** : pandas, numpy, matplotlib, seaborn
+- **Environment** : Jupyter Notebook
 
 ## Files
 
